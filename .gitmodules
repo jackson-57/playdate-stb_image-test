@@ -1,0 +1,3 @@
+[submodule "stb-playdate-fixes"]
+	path = lib/stb-playdate-fixes
+	url = https://github.com/jackson-57/stb-playdate-fixes
